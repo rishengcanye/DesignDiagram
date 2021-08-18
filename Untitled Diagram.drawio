@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T17:16:42.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="GCAEBG7MQj_yxSOdRvHk" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T17:22:02.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ZRIvpAyUUu_n8Wcx9NCt" version="14.9.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,6 +63,15 @@
         </mxCell>
         <mxCell id="Ym-d_akJX4R3M71p5_LC-20" value="选股神器&lt;br&gt;筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ym-d_akJX4R3M71p5_LC-21" value="新股申购日历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ym-d_akJX4R3M71p5_LC-22" value="龙虎榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ym-d_akJX4R3M71p5_LC-23" value="大盘行情滚动条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
